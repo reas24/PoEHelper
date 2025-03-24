@@ -1,0 +1,89 @@
+{
+    "farming_strategies": {
+        "divination_cards": {
+            "name": "Divination Cards",
+            "description": "Farming specific maps for valuable divination cards",
+            "details_url": "https://www.poewiki.net/wiki/Divination_card",
+            "mechanics": {
+                "overview": "Divination cards are items that can be collected and turned in for a specific reward.",
+                "farming_method": "Farm specific maps where the cards drop. Check the divination card locations for details.",
+                "tips": [
+                    "Use high quantity and rarity on maps for better drop rates",
+                    "Consider using Atlas passives that enhance divination card drops",
+                    "Some cards only drop in specific areas or from specific monsters"
+                ]
+            }
+        },
+        "heist": {
+            "name": "Heist",
+            "description": "Running Heist contracts and blueprints for specific rewards",
+            "details_url": "https://www.poewiki.net/wiki/Heist",
+            "mechanics": {
+                "overview": "Heist is a league mechanic where players steal valuable items from secure facilities.",
+                "farming_method": "Run Heist contracts and blueprints, focusing on high-value reward rooms.",
+                "tips": [
+                    "Level up your Rogues to improve their abilities",
+                    "Focus on Blueprints with valuable reward rooms like Currency, Divination Cards, or Uniques",
+                    "Use Rogue's Markers efficiently by prioritizing high-value targets"
+                ]
+            }
+        },
+        "expedition": {
+            "name": "Expedition",
+            "description": "Running Expedition encounters for valuable artifacts and logbooks",
+            "details_url": "https://www.poewiki.net/wiki/Expedition",
+            "mechanics": {
+                "overview": "Expedition involves unearthing artifacts and logbooks by strategically placing explosives.",
+                "farming_method": "Run Expedition encounters in maps and collect logbooks for bigger rewards.",
+                "tips": [
+                    "Target specific remnants based on your farming goals",
+                    "Be careful with remnant modifiers that can make encounters more difficult",
+                    "Sell valuable artifacts to Expedition vendors or other players"
+                ]
+            }
+        }
+    },
+    "crafting_strategies": {
+        "cluster_jewels": {
+            "name": "Cluster Jewels",
+            "description": "Crafting high-demand cluster jewels with specific notables",
+            "details_url": "https://www.poewiki.net/wiki/Cluster_Jewel",
+            "mechanics": {
+                "overview": "Cluster Jewels are special jewels that can be socketed in the passive skill tree to add new passive clusters.",
+                "crafting_method": "Use currency items like Chaos Orbs, Fossils, or Harvest crafts to roll desired notables.",
+                "tips": [
+                    "Focus on jewel bases that are in high demand for meta builds",
+                    "Check which notables are most valuable for each jewel type",
+                    "Consider the number of passive points required as fewer is generally better"
+                ]
+            }
+        },
+        "influenced_items": {
+            "name": "Influenced Items",
+            "description": "Crafting influenced items with specific mods",
+            "details_url": "https://www.poewiki.net/wiki/Influence",
+            "mechanics": {
+                "overview": "Influenced items can roll special modifiers associated with specific endgame bosses.",
+                "crafting_method": "Use currency items, fossils, or Harvest crafts to roll desired influence mods.",
+                "tips": [
+                    "Check which influence combinations are most valuable for specific item slots",
+                    "Use Awakener's Orbs to combine two influenced items with desired mods",
+                    "Consider using Harvest crafts for targeted modifications"
+                ]
+            }
+        }
+    },
+    "divination_card_locations": {
+        "The Doctor": ["Burial Chambers Map", "Spider Forest Map"],
+        "The Nurse": ["Tower Map"],
+        "The Patient": ["Gardens Map"],
+        "The Fiend": ["Forge of the Phoenix Map"],
+        "House of Mirrors": ["Reflection of Terror (Simulacrum)"],
+        "The Demon": ["Maze of the Minotaur Map"],
+        "The Immortal": ["The Alluring Abyss"],
+        "The Iron Bard": ["Conservatory Map"],
+        "Abandoned Wealth": ["Arsenal Map", "Ghetto Map"],
+        "Seven Years Bad Luck": ["Cemetery Map"]
+    },
+    "timestamp": "2025-03-24T04:09:07"
+}

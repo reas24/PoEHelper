@@ -1,0 +1,185 @@
+{
+    "currencies": {
+        "Divine Orb": [
+            {
+                "value": 170.0,
+                "league": "Phrecia",
+                "phase": "early",
+                "timestamp": "2025-02-24T04:09:07"
+            },
+            {
+                "value": 180.0,
+                "league": "Phrecia",
+                "phase": "mid",
+                "timestamp": "2025-03-09T04:09:07"
+            },
+            {
+                "value": 185.0,
+                "league": "Phrecia",
+                "phase": "late",
+                "timestamp": "2025-03-24T04:09:07"
+            },
+            {
+                "value": 160.0,
+                "league": "Settlers",
+                "phase": "early",
+                "timestamp": "2024-12-24T04:09:07"
+            },
+            {
+                "value": 175.0,
+                "league": "Settlers",
+                "phase": "mid",
+                "timestamp": "2025-01-09T04:09:07"
+            },
+            {
+                "value": 190.0,
+                "league": "Settlers",
+                "phase": "late",
+                "timestamp": "2025-01-24T04:09:07"
+            }
+        ],
+        "Exalted Orb": [
+            {
+                "value": 18.0,
+                "league": "Phrecia",
+                "phase": "early",
+                "timestamp": "2025-02-24T04:09:07"
+            },
+            {
+                "value": 16.0,
+                "league": "Phrecia",
+                "phase": "mid",
+                "timestamp": "2025-03-09T04:09:07"
+            },
+            {
+                "value": 15.0,
+                "league": "Phrecia",
+                "phase": "late",
+                "timestamp": "2025-03-24T04:09:07"
+            },
+            {
+                "value": 20.0,
+                "league": "Settlers",
+                "phase": "early",
+                "timestamp": "2024-12-24T04:09:07"
+            },
+            {
+                "value": 17.0,
+                "league": "Settlers",
+                "phase": "mid",
+                "timestamp": "2025-01-09T04:09:07"
+            },
+            {
+                "value": 14.0,
+                "league": "Settlers",
+                "phase": "late",
+                "timestamp": "2025-01-24T04:09:07"
+            }
+        ],
+        "Mirror of Kalandra": [
+            {
+                "value": 28000.0,
+                "league": "Phrecia",
+                "phase": "early",
+                "timestamp": "2025-02-24T04:09:07"
+            },
+            {
+                "value": 30000.0,
+                "league": "Phrecia",
+                "phase": "mid",
+                "timestamp": "2025-03-09T04:09:07"
+            },
+            {
+                "value": 32000.0,
+                "league": "Phrecia",
+                "phase": "late",
+                "timestamp": "2025-03-24T04:09:07"
+            },
+            {
+                "value": 26000.0,
+                "league": "Settlers",
+                "phase": "early",
+                "timestamp": "2024-12-24T04:09:07"
+            },
+            {
+                "value": 29000.0,
+                "league": "Settlers",
+                "phase": "mid",
+                "timestamp": "2025-01-09T04:09:07"
+            },
+            {
+                "value": 33000.0,
+                "league": "Settlers",
+                "phase": "late",
+                "timestamp": "2025-01-24T04:09:07"
+            }
+        ]
+    },
+    "items": {
+        "DivinationCard": {
+            "The Doctor": [
+                {
+                    "value": 7500.0,
+                    "league": "Phrecia",
+                    "phase": "early",
+                    "timestamp": "2025-02-24T04:09:07"
+                },
+                {
+                    "value": 8000.0,
+                    "league": "Phrecia",
+                    "phase": "mid",
+                    "timestamp": "2025-03-09T04:09:07"
+                },
+                {
+                    "value": 8500.0,
+                    "league": "Phrecia",
+                    "phase": "late",
+                    "timestamp": "2025-03-24T04:09:07"
+                }
+            ],
+            "The Nurse": [
+                {
+                    "value": 950.0,
+                    "league": "Phrecia",
+                    "phase": "early",
+                    "timestamp": "2025-02-24T04:09:07"
+                },
+                {
+                    "value": 1050.0,
+                    "league": "Phrecia",
+                    "phase": "mid",
+                    "timestamp": "2025-03-09T04:09:07"
+                },
+                {
+                    "value": 1100.0,
+                    "league": "Phrecia",
+                    "phase": "late",
+                    "timestamp": "2025-03-24T04:09:07"
+                }
+            ]
+        },
+        "UniqueAccessory": {
+            "Headhunter": [
+                {
+                    "value": 60000.0,
+                    "league": "Phrecia",
+                    "phase": "early",
+                    "timestamp": "2025-02-24T04:09:07"
+                },
+                {
+                    "value": 62500.0,
+                    "league": "Phrecia",
+                    "phase": "mid",
+                    "timestamp": "2025-03-09T04:09:07"
+                },
+                {
+                    "value": 65000.0,
+                    "league": "Phrecia",
+                    "phase": "late",
+                    "timestamp": "2025-03-24T04:09:07"
+                }
+            ]
+        }
+    },
+    "timestamp": "2025-03-24T04:09:07"
+}

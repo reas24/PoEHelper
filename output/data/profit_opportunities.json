@@ -1,0 +1,781 @@
+{
+    "flipping": [
+        {
+            "type": "single-step",
+            "currency": "Tempering Orb",
+            "chaos_value": 75.0,
+            "volatility": 1.3437999999999999,
+            "potential_profit": 10.0785,
+            "strategy": "Buy Tempering Orb when price drops, sell when price rises. Current price: 75.0 chaos.",
+            "opportunity_score": 48.1,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Exceptional Eldritch Ember",
+            "chaos_value": 224.0,
+            "volatility": 1.24,
+            "potential_profit": 27.776,
+            "strategy": "Buy Exceptional Eldritch Ember when price drops, sell when price rises. Current price: 224.0 chaos.",
+            "opportunity_score": 46.1,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Orb of Dominance",
+            "chaos_value": 320.0,
+            "volatility": 1.0,
+            "potential_profit": 32.0,
+            "strategy": "Buy Orb of Dominance when price drops, sell when price rises. Current price: 320.0 chaos.",
+            "opportunity_score": 44.9,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Exceptional Eldritch Ichor",
+            "chaos_value": 192.0,
+            "volatility": 0.6,
+            "potential_profit": 11.52,
+            "strategy": "Buy Exceptional Eldritch Ichor when price drops, sell when price rises. Current price: 192.0 chaos.",
+            "opportunity_score": 43.6,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Comprehensive Scouting Report",
+            "chaos_value": 8.0,
+            "volatility": 0.6,
+            "potential_profit": 0.48,
+            "strategy": "Buy Comprehensive Scouting Report when price drops, sell when price rises. Current price: 8.0 chaos.",
+            "opportunity_score": 43.6,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Blighted Scouting Report",
+            "chaos_value": 10.0,
+            "volatility": 1.0,
+            "potential_profit": 1.0,
+            "strategy": "Buy Blighted Scouting Report when price drops, sell when price rises. Current price: 10.0 chaos.",
+            "opportunity_score": 42.6,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "An Audience With The King",
+            "chaos_value": 70.0,
+            "volatility": 0.4,
+            "potential_profit": 2.8000000000000003,
+            "strategy": "Buy An Audience With The King when price drops, sell when price rises. Current price: 70.0 chaos.",
+            "opportunity_score": 42.4,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Singular Scouting Report",
+            "chaos_value": 9.9,
+            "volatility": 0.3335,
+            "potential_profit": 0.33016500000000004,
+            "strategy": "Buy Singular Scouting Report when price drops, sell when price rises. Current price: 9.9 chaos.",
+            "opportunity_score": 42.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Orb of Conflict",
+            "chaos_value": 292.8,
+            "volatility": 0.3071,
+            "potential_profit": 8.991888000000001,
+            "strategy": "Buy Orb of Conflict when price drops, sell when price rises. Current price: 292.8 chaos.",
+            "opportunity_score": 41.8,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Maven's Chisel of Proliferation",
+            "chaos_value": 35.0,
+            "volatility": 0.3,
+            "potential_profit": 1.05,
+            "strategy": "Buy Maven's Chisel of Proliferation when price drops, sell when price rises. Current price: 35.0 chaos.",
+            "opportunity_score": 41.8,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Decaying Fragment",
+            "chaos_value": 52.13,
+            "volatility": 0.30329999999999996,
+            "potential_profit": 1.5811028999999999,
+            "strategy": "Buy Decaying Fragment when price drops, sell when price rises. Current price: 52.13 chaos.",
+            "opportunity_score": 41.8,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Cosmic Fragment",
+            "chaos_value": 15.0,
+            "volatility": 0.25,
+            "potential_profit": 0.375,
+            "strategy": "Buy Cosmic Fragment when price drops, sell when price rises. Current price: 15.0 chaos.",
+            "opportunity_score": 41.5,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Veiled Orb",
+            "chaos_value": 1680.0,
+            "volatility": 0.2353,
+            "potential_profit": 39.53040000000001,
+            "strategy": "Buy Veiled Orb when price drops, sell when price rises. Current price: 1680.0 chaos.",
+            "opportunity_score": 41.4,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Prismatic Catalyst",
+            "chaos_value": 12.15,
+            "volatility": 0.215,
+            "potential_profit": 0.261225,
+            "strategy": "Buy Prismatic Catalyst when price drops, sell when price rises. Current price: 12.15 chaos.",
+            "opportunity_score": 40.7,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Sacred Crystallised Lifeforce",
+            "chaos_value": 110.0,
+            "volatility": 0.375,
+            "potential_profit": 4.125,
+            "strategy": "Buy Sacred Crystallised Lifeforce when price drops, sell when price rises. Current price: 110.0 chaos.",
+            "opportunity_score": 40.2,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Devouring Fragment",
+            "chaos_value": 100.0,
+            "volatility": 0.1905,
+            "potential_profit": 1.9050000000000002,
+            "strategy": "Buy Devouring Fragment when price drops, sell when price rises. Current price: 100.0 chaos.",
+            "opportunity_score": 40.2,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Grand Eldritch Ember",
+            "chaos_value": 10.0,
+            "volatility": 0.1875,
+            "potential_profit": 0.1875,
+            "strategy": "Buy Grand Eldritch Ember when price drops, sell when price rises. Current price: 10.0 chaos.",
+            "opportunity_score": 39.9,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Eldritch Chaos Orb",
+            "chaos_value": 45.0,
+            "volatility": 0.18420000000000003,
+            "potential_profit": 0.8289000000000002,
+            "strategy": "Buy Eldritch Chaos Orb when price drops, sell when price rises. Current price: 45.0 chaos.",
+            "opportunity_score": 39.5,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Valdo's Puzzle Box",
+            "chaos_value": 80.0,
+            "volatility": 0.1429,
+            "potential_profit": 1.1432,
+            "strategy": "Buy Valdo's Puzzle Box when price drops, sell when price rises. Current price: 80.0 chaos.",
+            "opportunity_score": 35.1,
+            "league": "Phrecia"
+        },
+        {
+            "type": "single-step",
+            "currency": "Blessing of Uul-Netol",
+            "chaos_value": 91.4,
+            "volatility": 2.1517,
+            "potential_profit": 19.666538000000003,
+            "strategy": "Buy Blessing of Uul-Netol when price drops, sell when price rises. Current price: 91.4 chaos.",
+            "opportunity_score": 34.6,
+            "league": "Phrecia"
+        }
+    ],
+    "farming": [
+        {
+            "type": "divination_card",
+            "item": "House of Mirrors",
+            "chaos_value": 19712.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "The Mirror of Kalandra (Reflection of Kalandra)"
+            ],
+            "strategy": "Farm Reflection of Kalandra endgame content. This card is extremely rare and not target-farmable in a specific map.",
+            "opportunity_score": 11827.199999999999,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "Unrequited Love",
+            "chaos_value": 8800.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Terrace Map"
+            ],
+            "strategy": "Farm Terrace maps. Use Divination scarabs and spec into Divination Card nodes on Atlas Passive Tree. Apply \"Area contains additional Divination Cards\" sextant.",
+            "opportunity_score": 5280.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "Father's Love",
+            "chaos_value": 7648.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Any Map with Divination Card focus"
+            ],
+            "strategy": "Spec into Divination Card nodes on Atlas Passive Tree. Use Divination scarabs on high-tier maps. Apply \"Area contains additional Divination Cards\" sextant. Check PoE Wiki for specific drop locations for this card.",
+            "opportunity_score": 4588.8,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "The Price of Devotion",
+            "chaos_value": 4240.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Any Map with Divination Card focus"
+            ],
+            "strategy": "Spec into Divination Card nodes on Atlas Passive Tree. Use Divination scarabs on high-tier maps. Apply \"Area contains additional Divination Cards\" sextant. Check PoE Wiki for specific drop locations for this card.",
+            "opportunity_score": 2544.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "The Apothecary",
+            "chaos_value": 4160.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Crimson Temple"
+            ],
+            "strategy": "Farm Crimson Temple maps. Use Divination scarabs and spec into Divination Card nodes on Atlas Passive Tree. Apply \"Area contains additional Divination Cards\" sextant.",
+            "opportunity_score": 2496.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "Fire Of Unknown Origin",
+            "chaos_value": 1944.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Any Map with Divination Card focus"
+            ],
+            "strategy": "Spec into Divination Card nodes on Atlas Passive Tree. Use Divination scarabs on high-tier maps. Apply \"Area contains additional Divination Cards\" sextant. Check PoE Wiki for specific drop locations for this card.",
+            "opportunity_score": 1166.3999999999999,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "The Immortal",
+            "chaos_value": 1920.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Hall of Grandmasters"
+            ],
+            "strategy": "Farm Hall of Grandmasters unique map. Use Divination scarabs and spec into Divination Card nodes on Atlas Passive Tree.",
+            "opportunity_score": 1152.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "The Insane Cat",
+            "chaos_value": 1600.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Any Map with Divination Card focus"
+            ],
+            "strategy": "Spec into Divination Card nodes on Atlas Passive Tree. Use Divination scarabs on high-tier maps. Apply \"Area contains additional Divination Cards\" sextant. Check PoE Wiki for specific drop locations for this card.",
+            "opportunity_score": 960.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "oil",
+            "item": "Tainted Oil",
+            "chaos_value": 704.0,
+            "farming_method": "Blight Farming",
+            "locations": [
+                "Blight Maps",
+                "Blight Encounters"
+            ],
+            "strategy": "Run Blight Maps with at least 3 Teal Oils applied. Spec into Blight nodes on Atlas Passive Tree. Use Blight scarabs on high-tier maps. Focus on completing Blight Ravaged Maps for higher tier oil drops.",
+            "opportunity_score": 492.79999999999995,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "Brother's Gift",
+            "chaos_value": 812.8,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Any Map with Divination Card focus"
+            ],
+            "strategy": "Spec into Divination Card nodes on Atlas Passive Tree. Use Divination scarabs on high-tier maps. Apply \"Area contains additional Divination Cards\" sextant. Check PoE Wiki for specific drop locations for this card.",
+            "opportunity_score": 487.67999999999995,
+            "league": "Phrecia"
+        },
+        {
+            "type": "divination_card",
+            "item": "Divine Justice",
+            "chaos_value": 800.0,
+            "farming_method": "Targeted Map Farming",
+            "locations": [
+                "Any Map with Divination Card focus"
+            ],
+            "strategy": "Spec into Divination Card nodes on Atlas Passive Tree. Use Divination scarabs on high-tier maps. Apply \"Area contains additional Divination Cards\" sextant. Check PoE Wiki for specific drop locations for this card.",
+            "opportunity_score": 480.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "fragment",
+            "item": "Oubliette Reliquary Key",
+            "chaos_value": 320.0,
+            "farming_method": "General Fragment Farming",
+            "locations": [
+                "High-tier Maps",
+                "Boss Encounters"
+            ],
+            "strategy": "Run high-tier maps with boss-focused Atlas Passive Tree. Focus on completing Maven invitations and endgame boss encounters.",
+            "opportunity_score": 288.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "fragment",
+            "item": "Chayula's Flawless Breachstone",
+            "chaos_value": 280.0,
+            "farming_method": "General Fragment Farming",
+            "locations": [
+                "High-tier Maps",
+                "Boss Encounters"
+            ],
+            "strategy": "Run high-tier maps with boss-focused Atlas Passive Tree. Focus on completing Maven invitations and endgame boss encounters.",
+            "opportunity_score": 252.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "scarab",
+            "item": "Ambush Scarab of Containment",
+            "chaos_value": 288.0,
+            "farming_method": "General Scarab Farming",
+            "locations": [
+                "Delirium Maps",
+                "Blight Maps",
+                "Legion Encounters"
+            ],
+            "strategy": "Run high-tier maps with Delirium Orbs. Focus on Legion, Blight, and Metamorph encounters. Spec into Scarab nodes on Atlas Passive Tree.",
+            "opportunity_score": 230.4,
+            "league": "Phrecia"
+        },
+        {
+            "type": "fragment",
+            "item": "Reality Fragment",
+            "chaos_value": 240.0,
+            "farming_method": "General Fragment Farming",
+            "locations": [
+                "High-tier Maps",
+                "Boss Encounters"
+            ],
+            "strategy": "Run high-tier maps with boss-focused Atlas Passive Tree. Focus on completing Maven invitations and endgame boss encounters.",
+            "opportunity_score": 216.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "scarab",
+            "item": "Horned Scarab of Preservation",
+            "chaos_value": 240.0,
+            "farming_method": "General Scarab Farming",
+            "locations": [
+                "Delirium Maps",
+                "Blight Maps",
+                "Legion Encounters"
+            ],
+            "strategy": "Run high-tier maps with Delirium Orbs. Focus on Legion, Blight, and Metamorph encounters. Spec into Scarab nodes on Atlas Passive Tree.",
+            "opportunity_score": 192.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "scarab",
+            "item": "Ultimatum Scarab of Catalysing",
+            "chaos_value": 240.0,
+            "farming_method": "General Scarab Farming",
+            "locations": [
+                "Delirium Maps",
+                "Blight Maps",
+                "Legion Encounters"
+            ],
+            "strategy": "Run high-tier maps with Delirium Orbs. Focus on Legion, Blight, and Metamorph encounters. Spec into Scarab nodes on Atlas Passive Tree.",
+            "opportunity_score": 192.0,
+            "league": "Phrecia"
+        },
+        {
+            "type": "fragment",
+            "item": "Voidborn Reliquary Key",
+            "chaos_value": 208.0,
+            "farming_method": "General Fragment Farming",
+            "locations": [
+                "High-tier Maps",
+                "Boss Encounters"
+            ],
+            "strategy": "Run high-tier maps with boss-focused Atlas Passive Tree. Focus on completing Maven invitations and endgame boss encounters.",
+            "opportunity_score": 187.20000000000002,
+            "league": "Phrecia"
+        },
+        {
+            "type": "fragment",
+            "item": "Esh's Flawless Breachstone",
+            "chaos_value": 175.98,
+            "farming_method": "General Fragment Farming",
+            "locations": [
+                "High-tier Maps",
+                "Boss Encounters"
+            ],
+            "strategy": "Run high-tier maps with boss-focused Atlas Passive Tree. Focus on completing Maven invitations and endgame boss encounters.",
+            "opportunity_score": 158.382,
+            "league": "Phrecia"
+        },
+        {
+            "type": "fragment",
+            "item": "Tul's Flawless Breachstone",
+            "chaos_value": 120.0,
+            "farming_method": "General Fragment Farming",
+            "locations": [
+                "High-tier Maps",
+                "Boss Encounters"
+            ],
+            "strategy": "Run high-tier maps with boss-focused Atlas Passive Tree. Focus on completing Maven invitations and endgame boss encounters.",
+            "opportunity_score": 108.0,
+            "league": "Phrecia"
+        }
+    ],
+    "crafting": [
+        {
+            "name": "Fractured Item Crafting",
+            "description": "Crafting on items with valuable fractured mods",
+            "materials": [
+                "Items with good fractured mods",
+                "Essences",
+                "Fossils"
+            ],
+            "strategy": "Buy items with valuable fractured mods (e.g., T1 life, high physical damage). Craft using essences or fossils to add complementary mods. The fractured mod cannot be changed, providing a guaranteed high-tier mod.",
+            "estimated_cost": 500,
+            "estimated_return": 1000,
+            "opportunity_score": 100,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Harvest Reforge Crafting",
+            "description": "Using Harvest reforge crafts to target specific mod types",
+            "materials": [
+                "Base items",
+                "Harvest crafts (reforge with X)"
+            ],
+            "strategy": "Buy good item bases. Use Harvest reforge crafts to target specific mod types (e.g., \"Reforge with Physical modifiers\" on weapons). Combine with metamods for more deterministic results.",
+            "estimated_cost": 300,
+            "estimated_return": 600,
+            "opportunity_score": 95,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Awakener Orb Crafting",
+            "description": "Combining two influenced items to create a double-influenced item",
+            "materials": [
+                "Awakener's Orb",
+                "Two influenced items with desired mods"
+            ],
+            "strategy": "Buy two influenced items with desired mods (e.g., item with T1 life and item with explode mod). Use Awakener's Orb to destroy the first item and transfer its influence mod to the second item. Results in a double-influenced item with both mods.",
+            "estimated_cost": 1000,
+            "estimated_return": 2000,
+            "opportunity_score": 95,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Fossil Crafting",
+            "description": "Using specific fossil combinations to target valuable mod pools",
+            "materials": [
+                "Pristine Fossils",
+                "Jagged Fossils",
+                "Dense Fossils",
+                "Resonators"
+            ],
+            "strategy": "Buy good item bases (e.g., Astral Plate, Vaal Regalia). Use fossil combinations to target specific mod pools. For example, Pristine+Jagged+Dense for physical damage reduction and life on armor.",
+            "estimated_cost": 250,
+            "estimated_return": 500,
+            "opportunity_score": 90,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Meta-mod Crafting",
+            "description": "Using \"Prefixes/Suffixes Cannot Be Changed\" with other crafting methods",
+            "materials": [
+                "Exalted Orbs",
+                "Divine Orbs",
+                "Crafting bench (2 ex for metamod)"
+            ],
+            "strategy": "Craft an item with good prefixes or suffixes. Apply \"Prefixes/Suffixes Cannot Be Changed\" metamod. Use Harvest reforge, Veiled Chaos Orbs, or other methods to safely modify the other half of the item without risking the good mods.",
+            "estimated_cost": 800,
+            "estimated_return": 1500,
+            "opportunity_score": 90,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Cluster Jewel Crafting",
+            "description": "Crafting high-demand cluster jewels with specific notables",
+            "materials": [
+                "Large Cluster Jewel (8 passives)",
+                "Chaos Orbs",
+                "Alteration Orbs",
+                "Regal Orbs"
+            ],
+            "strategy": "Buy 8-passive Large Cluster Jewels with good bases (e.g., Critical, Elemental Damage). Use Alteration+Regal or Chaos spam to hit valuable notable combinations. Focus on meta builds for best returns.",
+            "estimated_cost": 150,
+            "estimated_return": 300,
+            "opportunity_score": 85,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Recombinator Crafting",
+            "description": "Using recombinators to merge mods from two items",
+            "materials": [
+                "Recombinators",
+                "Two well-rolled items"
+            ],
+            "strategy": "Buy or craft two items with complementary mods. Use recombinators to merge them, with a chance to get both sets of mods on a single item. Can create otherwise impossible mod combinations.",
+            "estimated_cost": 300,
+            "estimated_return": 800,
+            "opportunity_score": 85,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Eldritch Currency Crafting",
+            "description": "Using Eldritch currency to craft powerful implicit modifiers",
+            "materials": [
+                "Eldritch Chaos Orbs",
+                "Eldritch Exalted Orbs",
+                "Gloves/Boots/Helmets/Body Armour"
+            ],
+            "strategy": "Buy item bases with good explicit modifiers. Apply Eldritch currency to add powerful implicit modifiers. Focus on meta combinations like spell suppression, elemental damage, or life regeneration.",
+            "estimated_cost": 400,
+            "estimated_return": 700,
+            "opportunity_score": 80,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Essence Crafting",
+            "description": "Using high-tier essences to craft meta items",
+            "materials": [
+                "Deafening Essence of Dread/Anger/Hatred/Wrath",
+                "Influenced item bases"
+            ],
+            "strategy": "Buy influenced item bases (e.g., Fingerless Silk Gloves, Two-Toned Boots). Apply Deafening Essences to guarantee one mod and hope for good influenced mods. Focus on meta builds for best returns.",
+            "estimated_cost": 200,
+            "estimated_return": 350,
+            "opportunity_score": 75,
+            "league": "Phrecia"
+        },
+        {
+            "name": "Veiled Chaos Orb Crafting",
+            "description": "Using Veiled Chaos Orbs to get powerful veiled modifiers",
+            "materials": [
+                "Veiled Chaos Orbs",
+                "Influenced item bases"
+            ],
+            "strategy": "Buy influenced item bases. Apply Veiled Chaos Orbs to reroll the item with a guaranteed veiled modifier. Unveil to select powerful mods like \"Trigger a Socketed Spell when you Use a Skill\".",
+            "estimated_cost": 150,
+            "estimated_return": 300,
+            "opportunity_score": 70,
+            "league": "Phrecia"
+        }
+    ],
+    "investment": [
+        {
+            "type": "Oil",
+            "item": "Tainted Oil",
+            "chaos_value": 704.0,
+            "price_change": 340,
+            "investment_rating": 203.6,
+            "strategy": "Short-term investment: Tainted Oil is rising in value (+340%). Buy now and sell within 1-3 days for quick profit. Current price: 704.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "Simulacrum Splinter",
+            "chaos_value": 3.0,
+            "price_change": 200,
+            "investment_rating": 175.0,
+            "strategy": "Short-term investment: Simulacrum Splinter is rising in value (+200%). Buy now and sell within 1-3 days for quick profit. Current price: 3.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Blessing of Uul-Netol",
+            "chaos_value": 91.4,
+            "price_change": 215.17,
+            "investment_rating": 150.7,
+            "strategy": "Short-term investment: Blessing of Uul-Netol is rising in value (+215.17%). Buy now and sell within 1-3 days for quick profit. Current price: 91.4 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Tempering Orb",
+            "chaos_value": 75.0,
+            "price_change": 134.38,
+            "investment_rating": 132.2,
+            "strategy": "Short-term investment: Tempering Orb is rising in value (+134.38%). Buy now and sell within 1-3 days for quick profit. Current price: 75.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Blighted Scouting Report",
+            "chaos_value": 10.0,
+            "price_change": 100,
+            "investment_rating": 121.6,
+            "strategy": "Short-term investment: Blighted Scouting Report is rising in value (+100%). Buy now and sell within 1-3 days for quick profit. Current price: 10.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Exceptional Eldritch Ember",
+            "chaos_value": 224.0,
+            "price_change": 124,
+            "investment_rating": 112.4,
+            "strategy": "Short-term investment: Exceptional Eldritch Ember is rising in value (+124%). Buy now and sell within 1-3 days for quick profit. Current price: 224.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Comprehensive Scouting Report",
+            "chaos_value": 8.0,
+            "price_change": 60,
+            "investment_rating": 105.0,
+            "strategy": "Short-term investment: Comprehensive Scouting Report is rising in value (+60%). Buy now and sell within 1-3 days for quick profit. Current price: 8.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Scarab",
+            "item": "Scarab of Wisps",
+            "chaos_value": 30.0,
+            "price_change": 50,
+            "investment_rating": 100.0,
+            "strategy": "Short-term investment: Scarab of Wisps is rising in value (+50%). Buy now and sell within 1-3 days for quick profit. Current price: 30.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Orb of Dominance",
+            "chaos_value": 320.0,
+            "price_change": 100,
+            "investment_rating": 98.6,
+            "strategy": "Short-term investment: Orb of Dominance is rising in value (+100%). Buy now and sell within 1-3 days for quick profit. Current price: 320.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Oil",
+            "item": "Black Oil",
+            "chaos_value": 7.0,
+            "price_change": 40,
+            "investment_rating": 95.0,
+            "strategy": "Short-term investment: Black Oil is rising in value (+40%). Buy now and sell within 1-3 days for quick profit. Current price: 7.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "Unrelenting Timeless Maraketh Emblem",
+            "chaos_value": 44.0,
+            "price_change": 76,
+            "investment_rating": 94.8,
+            "strategy": "Short-term investment: Unrelenting Timeless Maraketh Emblem is rising in value (+76%). Buy now and sell within 1-3 days for quick profit. Current price: 44.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Singular Scouting Report",
+            "chaos_value": 9.9,
+            "price_change": 33.35,
+            "investment_rating": 91.7,
+            "strategy": "Short-term investment: Singular Scouting Report is rising in value (+33.35%). Buy now and sell within 1-3 days for quick profit. Current price: 9.9 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Scarab",
+            "item": "Delirium Scarab of Mania",
+            "chaos_value": 1.32,
+            "price_change": 32,
+            "investment_rating": 91.0,
+            "strategy": "Short-term investment: Delirium Scarab of Mania is rising in value (+32%). Buy now and sell within 1-3 days for quick profit. Current price: 1.32 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "Dedication to the Goddess",
+            "chaos_value": 50.0,
+            "price_change": 66.67,
+            "investment_rating": 89.7,
+            "strategy": "Short-term investment: Dedication to the Goddess is rising in value (+66.67%). Buy now and sell within 1-3 days for quick profit. Current price: 50.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "Unrelenting Timeless Templar Emblem",
+            "chaos_value": 34.0,
+            "price_change": 65.85,
+            "investment_rating": 89.2,
+            "strategy": "Short-term investment: Unrelenting Timeless Templar Emblem is rising in value (+65.85%). Buy now and sell within 1-3 days for quick profit. Current price: 34.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "Decaying Fragment",
+            "chaos_value": 52.13,
+            "price_change": 30.33,
+            "investment_rating": 88.9,
+            "strategy": "Short-term investment: Decaying Fragment is rising in value (+30.33%). Buy now and sell within 1-3 days for quick profit. Current price: 52.13 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Currency",
+            "item": "Fertile Catalyst",
+            "chaos_value": 5.0,
+            "price_change": 25,
+            "investment_rating": 87.5,
+            "strategy": "Short-term investment: Fertile Catalyst is rising in value (+25%). Buy now and sell within 1-3 days for quick profit. Current price: 5.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "Cosmic Fragment",
+            "chaos_value": 15.0,
+            "price_change": 25,
+            "investment_rating": 87.5,
+            "strategy": "Short-term investment: Cosmic Fragment is rising in value (+25%). Buy now and sell within 1-3 days for quick profit. Current price: 15.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "Unrelenting Timeless Eternal Emblem",
+            "chaos_value": 48.0,
+            "price_change": 60,
+            "investment_rating": 87.1,
+            "strategy": "Short-term investment: Unrelenting Timeless Eternal Emblem is rising in value (+60%). Buy now and sell within 1-3 days for quick profit. Current price: 48.0 chaos.",
+            "league": "Phrecia"
+        },
+        {
+            "type": "Fragment",
+            "item": "An Audience With The King",
+            "chaos_value": 70.0,
+            "price_change": 40,
+            "investment_rating": 86.4,
+            "strategy": "Short-term investment: An Audience With The King is rising in value (+40%). Buy now and sell within 1-3 days for quick profit. Current price: 70.0 chaos.",
+            "league": "Phrecia"
+        }
+    ],
+    "timestamp": "2025-03-24T08:28:02.632046"
+}

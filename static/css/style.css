@@ -1,0 +1,137 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    border-radius: 8px 8px 0 0;
+}
+
+.nav-tabs .nav-link {
+    font-weight: 500;
+    color: #495057;
+}
+
+.nav-tabs .nav-link.active {
+    font-weight: 700;
+    color: #0d6efd;
+}
+
+.table th {
+    font-weight: 600;
+    background-color: #f1f3f5;
+}
+
+.opportunity-high {
+    background-color: rgba(40, 167, 69, 0.1);
+}
+
+.opportunity-medium {
+    background-color: rgba(255, 193, 7, 0.1);
+}
+
+.opportunity-low {
+    background-color: rgba(108, 117, 125, 0.1);
+}
+
+.trend-up {
+    color: #28a745;
+}
+
+.trend-down {
+    color: #dc3545;
+}
+
+.trend-stable {
+    color: #6c757d;
+}
+
+.strategy-details {
+    white-space: pre-line;
+    max-height: 200px;
+    overflow-y: auto;
+    font-size: 0.9rem;
+}
+
+.currency-path {
+    font-weight: 600;
+}
+
+.currency-path .arrow {
+    color: #6c757d;
+    margin: 0 5px;
+}
+
+#currency-chart, #trend-chart {
+    height: 300px !important;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .card-body {
+        padding: 1rem;
+    }
+    
+    .table {
+        font-size: 0.9rem;
+    }
+    
+    .strategy-details {
+        max-height: 150px;
+    }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+/* Tooltip styling */
+.tooltip-inner {
+    max-width: 300px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.85);
+    font-size: 0.9rem;
+}
+
+/* Badge styling */
+.badge {
+    font-size: 0.9rem;
+    padding: 0.4rem 0.6rem;
+    margin-right: 5px;
+}
+
+/* Animation for loading */
+@keyframes pulse {
+    0% { opacity: 0.6; }
+    50% { opacity: 1; }
+    100% { opacity: 0.6; }
+}
+
+.loading {
+    animation: pulse 1.5s infinite;
+}
