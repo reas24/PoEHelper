@@ -1,4 +1,4 @@
-# Path of Exile Economy Analysis Tool
+# Path of Exile Economy Analysis Tool(Don't expect it to be updated, don't create pull requests Fork if you want to try and work on it. It's quite in complete state. I stopped using it myself and decided to share)
 
 A comprehensive tool for analyzing Path of Exile's economy and identifying profitable opportunities based on real-time market data from poe.ninja.
 
